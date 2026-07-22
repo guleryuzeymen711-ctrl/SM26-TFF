@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "package_name": "Turkish Football Leagues Extended Dataset",
+    "package_name": "Turkish Football Leagues (Tier 1-3)",
     "season": "2025-2026",
     "teams_per_league": 19,
-    "total_leagues": 4,
-    "total_teams": 76
+    "total_leagues": 3,
+    "total_teams": 57
   },
   "leagues": [
     {
@@ -67,49 +67,4 @@
         { "team_id": "2L-01", "team_name": "Bursaspor", "city": "Bursa", "players": [{ "name": "Muhammet Demir", "position": "ST", "overall_rating": 68, "age": 34 }] },
         { "team_id": "2L-02", "team_name": "Altay", "city": "İzmir", "players": [{ "name": "Ozan Evrim Özenç", "position": "GK", "overall_rating": 65, "age": 33 }] },
         { "team_id": "2L-03", "team_name": "Giresunspor", "city": "Giresun", "players": [{ "name": "Şahin Dik", "position": "LW", "overall_rating": 64, "age": 22 }] },
-        { "team_id": "2L-04", "team_name": "Menemen FK", "city": "İzmir", "players": [{ "name": "Mert Uygur", "position": "CM", "overall_rating": 65, "age": 25 }] },
-        { "team_id": "2L-05", "team_name": "Isparta 32 Spor", "city": "Isparta", "players": [{ "name": "Alim Harlak", "position": "LW", "overall_rating": 64, "age": 28 }] },
-        { "team_id": "2L-06", "team_name": "Kastamonuspor", "city": "Kastamonu", "players": [{ "name": "İsmail Güven", "position": "CM", "overall_rating": 66, "age": 31 }] },
-        { "team_id": "2L-07", "team_name": "Somaspor", "city": "Manisa", "players": [{ "name": "Kenan Fakılı", "position": "RW", "overall_rating": 63, "age": 23 }] },
-        { "team_id": "2L-08", "team_name": "İskenderunspor", "city": "Hatay", "players": [{ "name": "Mahmut Metin", "position": "CAM", "overall_rating": 65, "age": 31 }] },
-        { "team_id": "2L-09", "team_name": "1461 Trabzon", "city": "Trabzon", "players": [{ "name": "Süleyman Güneş", "position": "RW", "overall_rating": 66, "age": 29 }] },
-        { "team_id": "2L-10", "team_name": "24Erzincanspor", "city": "Erzincan", "players": [{ "name": "Kubilay Yılmaz", "position": "ST", "overall_rating": 65, "age": 29 }] },
-        { "team_id": "2L-11", "team_name": "Düzcespor", "city": "Düzce", "players": [{ "name": "Kaan Yılmaz", "position": "CM", "overall_rating": 63, "age": 26 }] },
-        { "team_id": "2L-12", "team_name": "Fethiyespor", "city": "Muğla", "players": [{ "name": "Nurettin Çakır", "position": "CAM", "overall_rating": 64, "age": 31 }] },
-        { "team_id": "2L-13", "team_name": "İnegölspor", "city": "Bursa", "players": [{ "name": "Uğur Utlu", "position": "CDM", "overall_rating": 64, "age": 34 }] },
-        { "team_id": "2L-14", "team_name": "Bucaspor 1928", "city": "İzmir", "players": [{ "name": "Yasin Öztekin", "position": "LW", "overall_rating": 67, "age": 39 }] },
-        { "team_id": "2L-15", "team_name": "Batman Petrolspor", "city": "Batman", "players": [{ "name": "Mert Çapar", "position": "RW", "overall_rating": 66, "age": 29 }] },
-        { "team_id": "2L-16", "team_name": "Karaman FK", "city": "Karaman", "players": [{ "name": "Resul Türkkalesi", "position": "RB", "overall_rating": 63, "age": 27 }] },
-        { "team_id": "2L-17", "team_name": "Arnavutköy Belediyespor", "city": "İstanbul", "players": [{ "name": "Ömer Faruk Ermeç", "position": "ST", "overall_rating": 64, "age": 33 }] },
-        { "team_id": "2L-18", "team_name": "Kırklarelispor", "city": "Kırklareli", "players": [{ "name": "Hüseyin Eray Karatag", "position": "LM", "overall_rating": 63, "age": 28 }] },
-        { "team_id": "2L-19", "team_name": "Altınordu", "city": "İzmir", "players": [{ "name": "Hasan Berat Kayalı", "position": "CB", "overall_rating": 63, "age": 21 }] }
-      ]
-    },
-    {
-      "league_id": "TR-4",
-      "league_name": "TFF 3. Lig",
-      "tier": 4,
-      "teams": [
-        { "team_id": "3L-01", "team_name": "Karşıyaka", "city": "İzmir", "players": [{ "name": "Cenk Ahmet Alkılıç", "position": "RM", "overall_rating": 64, "age": 38 }] },
-        { "team_id": "3L-02", "team_name": "52 Orduspor FK", "city": "Ordu", "players": [{ "name": "Nevzat Bilen", "position": "LW", "overall_rating": 62, "age": 32 }] },
-        { "team_id": "3L-03", "team_name": "Eskişehirspor", "city": "Eskişehir", "players": [{ "name": "Sezer Akyüz", "position": "CB", "overall_rating": 62, "age": 31 }] },
-        { "team_id": "3L-04", "team_name": "Ayvalıkgücü Belediyespor", "city": "Balıkesir", "players": [{ "name": "Ertuğrul Yıldırım", "position": "ST", "overall_rating": 61, "age": 27 }] },
-        { "team_id": "3L-05", "team_name": "Çorluspor 1947", "city": "Tekirdağ", "players": [{ "name": "Erdem Dikbasan", "position": "CM", "overall_rating": 61, "age": 25 }] },
-        { "team_id": "3L-06", "team_name": "Küçükçekmece Sinopspor", "city": "İstanbul", "players": [{ "name": "Eren Karadağ", "position": "RW", "overall_rating": 62, "age": 26 }] },
-        { "team_id": "3L-07", "team_name": "Alanya 1221 FK", "city": "Antalya", "players": [{ "name": "Ali Berke Timurcioğlu", "position": "LM", "overall_rating": 60, "age": 24 }] },
-        { "team_id": "3L-08", "team_name": "Pazarspor", "city": "Rize", "players": [{ "name": "Emre Akgün", "position": "CB", "overall_rating": 61, "age": 33 }] },
-        { "team_id": "3L-09", "team_name": "Anadolu Üniversitesi", "city": "Eskişehir", "players": [{ "name": "Uğur Kurt", "position": "GK", "overall_rating": 60, "age": 28 }] },
-        { "team_id": "3L-10", "team_name": "Silivrispor", "city": "İstanbul", "players": [{ "name": "Batuhan Kurt", "position": "ST", "overall_rating": 62, "age": 28 }] },
-        { "team_id": "3L-11", "team_name": "Edirnespor", "city": "Edirne", "players": [{ "name": "Yağız Berkay Hazar", "position": "RB", "overall_rating": 59, "age": 23 }] },
-        { "team_id": "3L-12", "team_name": "Kelkit Hürriyet SK", "city": "Gümüşhane", "players": [{ "name": "Musa Bulut", "position": "CM", "overall_rating": 60, "age": 26 }] },
-        { "team_id": "3L-13", "team_name": "Efeler 09 SFK", "city": "Aydın", "players": [{ "name": "Uğur Çetinkaya", "position": "LB", "overall_rating": 61, "age": 29 }] },
-        { "team_id": "3L-14", "team_name": "Turgutluspor", "city": "Manisa", "players": [{ "name": "Hamit Bayraktar", "position": "CB", "overall_rating": 60, "age": 27 }] },
-        { "team_id": "3L-15", "team_name": "Bursa Yıldırımspor", "city": "Bursa", "players": [{ "name": "Doğanay Kılıç", "position": "CAM", "overall_rating": 61, "age": 30 }] },
-        { "team_id": "3L-16", "team_name": "Elazığspor", "city": "Elazığ", "players": [{ "name": "Beykan Şimşek", "position": "LW", "overall_rating": 65, "age": 31 }] },
-        { "team_id": "3L-17", "team_name": "Kırşehir Futbol SK", "city": "Kırşehir", "players": [{ "name": "Tolga Şahin", "position": "ST", "overall_rating": 59, "age": 25 }] },
-        { "team_id": "3L-18", "team_name": "Bulvarspor", "city": "İstanbul", "players": [{ "name": "Gökhan Payal", "position": "CB", "overall_rating": 60, "age": 32 }] },
-        { "team_id": "3L-19", "team_name": "Çankayaspor", "city": "Ankara", "players": [{ "name": "Caner Bıyıklı", "position": "CDM", "overall_rating": 60, "age": 29 }] }
-      ]
-    }
-  ]
-}
+        { "team_id": "2L-04", "team_name": "Menemen FK", "city": "
