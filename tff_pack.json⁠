@@ -1,0 +1,16 @@
+{
+  "packName": "TFF Pro Plus Pack",
+  "version": "1.0",
+  "leagues": [
+    {
+      "id": 1,
+      "name": "Trendyol Super Lig",
+      "clubs": [
+        {"id": 1001, "name": "Galatasaray SK"},
+        {"id": 1002, "name": "Fenerbahce SK"},
+        {"id": 1003, "name": "Besiktas JK"},
+        {"id": 1004, "name": "Trabzonspor"}
+      ]
+    }
+  ]
+}
