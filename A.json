@@ -1,117 +1,371 @@
-pack_name": "SM26 - TFF Tum Ligler  (Lisansli & Reytingli 2026)",
-  "version": "2026.3.0"
-  "author": "SM26 Community",
-  "licensed": true,
-  "leagues": [
-    {
-      "league_id": "TR_SL",
-      "league_name": "Trendyol Süper Lig",
-      "country": "Turkey",
-      "tier": 1,
-      "real_license": true,
-      "teams": [
-        {"team_id": "GS", "name": "Galatasaray SK", "real_license": true, "squad": [{"name": "Fernando Muslera", "pos": "GK", "rating": 80}, {"name": "Davinson Sánchez", "pos": "CB", "rating": 81}, {"name": "Noa Lang", "pos": "LW", "rating": 78}, {"name": "Victor Osimhen", "pos": "ST", "rating": 87}]},
-        {"team_id": "FB", "name": "Fenerbahçe SK", "real_license": true, "squad": [{"name": "Mert Günok", "pos": "GK", "rating": 77}, {"name": "Nathan Aké", "pos": "CB", "rating": 81}, {"name": "N'Golo Kanté", "pos": "CDM", "rating": 83}, {"name": "Youssef En-Nesyri", "pos": "ST", "rating": 80}]},
-        {"team_id": "BJK", "name": "Beşiktaş JK", "real_license": true, "squad": [{"name": "Doğan Alemdar", "pos": "GK", "rating": 74}, {"name": "Gabriel Paulista", "pos": "CB", "rating": 78}, {"name": "Leandro Trossard", "pos": "LM", "rating": 81}, {"name": "Ciro Immobile", "pos": "ST", "rating": 80}]},
-        {"team_id": "TS", "name": "Trabzonspor", "real_license": true, "squad": [{"name": "Uğurcan Çakır", "pos": "GK", "rating": 79}, {"name": "Cenk Özkacar", "pos": "CB", "rating": 74}, {"name": "Oleksandr Zubkov", "pos": "RW", "rating": 76}, {"name": "Umut Nayir", "pos": "ST", "rating": 73}]},
-        {"team_id": "IBFK", "name": "RAMS Başakşehir", "real_license": true, "squad": [{"name": "Volkan Babacan", "pos": "GK", "rating": 70}, {"name": "Emin Bayram", "pos": "CB", "rating": 73}, {"name": "Edin Višća", "pos": "RW", "rating": 76}, {"name": "Eldor Shomurodov", "pos": "ST", "rating": 75}]},
-        {"team_id": "ADS", "name": "Adana Demirspor", "real_license": true, "squad": [{"name": "Vedat Karakuş", "pos": "GK", "rating": 68}, {"name": "Semih Güler", "pos": "CB", "rating": 71}, {"name": "Maestro", "pos": "CM", "rating": 72}, {"name": "Abat Aymbetov", "pos": "ST", "rating": 70}]},
-        {"team_id": "KAS", "name": "Kasımpaşa SK", "real_license": true, "squad": [{"name": "Andreas Gianniotis", "pos": "GK", "rating": 71}, {"name": "Kenneth Omeruo", "pos": "CB", "rating": 72}, {"name": "Thiemoko Diarra", "pos": "CAM", "rating": 73}, {"name": "Nuno Da Costa", "pos": "ST", "rating": 74}]},
-        {"team_id": "SIV", "name": "Sivasspor", "real_license": true, "squad": [{"name": "Đorđe Nikolić", "pos": "GK", "rating": 70}, {"name": "Uroš Radaković", "pos": "CB", "rating": 72}, {"name": "Charis Charisis", "pos": "CM", "rating": 72}, {"name": "Rey Manaj", "pos": "ST", "rating": 76}]},
-        {"team_id": "ANT", "name": "Antalyaspor", "real_license": true, "squad": [{"name": "Kenan Pirić", "pos": "GK", "rating": 71}, {"name": "Veysel Sarı", "pos": "CB", "rating": 70}, {"name": "Erdal Rakip", "pos": "CM", "rating": 72}, {"name": "Adolfo Gaich", "pos": "ST", "rating": 72}]},
-        {"team_id": "ALA", "name": "Alanyaspor", "real_license": true, "squad": [{"name": "Yusuf Karagöz", "pos": "GK", "rating": 67}, {"name": "Fidan Aliti", "pos": "CB", "rating": 71}, {"name": "Efecan Karaca", "pos": "RW", "rating": 73}, {"name": "Omar Ben Ali", "pos": "ST", "rating": 71}]},
-        {"team_id": "RZE", "name": "Rizespor", "real_license": true, "squad": [{"name": "Gökhan Akkan", "pos": "GK", "rating": 72}, {"name": "Modibo Sagnan", "pos": "CB", "rating": 73}, {"name": "Ahmet Kutucu", "pos": "CAM", "rating": 73}, {"name": "Ali Sowe", "pos": "ST", "rating": 73}]},
-        {"team_id": "GZT", "name": "Gaziantep FK", "real_license": true, "squad": [{"name": "Sokratis Dioudis", "pos": "GK", "rating": 71}, {"name": "Arda Kızıldağ", "pos": "CB", "rating": 71}, {"name": "Alexandru Maxim", "pos": "CAM", "rating": 74}, {"name": "David Okereke", "pos": "ST", "rating": 73}]},
-        {"team_id": "KNY", "name": "Konyaspor", "real_license": true, "squad": [{"name": "Slowik Jakub", "pos": "GK", "rating": 71}, {"name": "Adil Demirbağ", "pos": "CB", "rating": 72}, {"name": "Guilherme Sityá", "pos": "LB", "rating": 74}, {"name": "Melih Bostan", "pos": "ST", "rating": 69}]},
-        {"team_id": "SAMS", "name": "Samsunspor", "real_license": true, "squad": [{"name": "Bilal Bayazıt", "pos": "GK", "rating": 72}, {"name": "Lubin Satka", "pos": "CB", "rating": 72}, {"name": "Olivier Ntcham", "pos": "CM", "rating": 75}, {"name": "Marius Mouandilmadji", "pos": "ST", "rating": 73}]},
-        {"team_id": "KYS", "name": "Kayserispor", "real_license": true, "squad": [{"name": "Onurcan Piri", "pos": "GK", "rating": 68}, {"name": "Joseph Attamah", "pos": "CB", "rating": 70}, {"name": "Mehdi Bourabia", "pos": "CM", "rating": 72}, {"name": "Stephane Bahoken", "pos": "ST", "rating": 71}]},
-        {"team_id": "HAT", "name": "Hatayspor", "real_license": true, "squad": [{"name": "Demir Sarıcalı", "pos": "GK", "rating": 66}, {"name": "Guy-Marcelin Kilama", "pos": "CB", "rating": 72}, {"name": "Görkem Sağlam", "pos": "CM", "rating": 71}, {"name": "Vincent Aboubakar", "pos": "ST", "rating": 75}]},
-        {"team_id": "EYUP", "name": "Eyüpspor", "real_license": true, "squad": [{"name": "Berke Özer", "pos": "GK", "rating": 73}, {"name": "Caner Erkin", "pos": "LB", "rating": 72}, {"name": "Konrad Michalak", "pos": "LW", "rating": 73}, {"name": "Mame Thiam", "pos": "ST", "rating": 75}]},
-        {"team_id": "GOZ", "name": "Göztepe SK", "real_license": true, "squad": [{"name": "Mateusz Lis", "pos": "GK", "rating": 73}, {"name": "Heliton", "pos": "CB", "rating": 73}, {"name": "Alex Matos", "pos": "CM", "rating": 72}, {"name": "Romulo", "pos": "ST", "rating": 74}]},
-        {"team_id": "BOD", "name": "Bodrum FK", "real_license": true, "squad": [{"name": "Diogo Sousa", "pos": "GK", "rating": 71}, {"name": "Ali Aytemur", "pos": "CB", "rating": 70}, {"name": "Fredy", "pos": "CM", "rating": 73}, {"name": "George Pușcaș", "pos": "ST", "rating": 72}]}
-      ]
-    },
-    {
-      "league_id": "TR_1L",
-      "league_name": "Trendyol 1. Lig",
-      "country": "Turkey",
-      "tier": 2,
-      "real_license": true,
-      "teams": [
-        {"team_id": "ANK", "name": "MKE Ankaragücü", "real_license": true, "squad": [{"name": "Ertaç Özbir", "pos": "GK", "rating": 71}, {"name": "Mert Çetin", "pos": "CB", "rating": 70}, {"name": "Tolga Ciğerci", "pos": "CM", "rating": 73}, {"name": "Riad Bajić", "pos": "ST", "rating": 71}]},
-        {"team_id": "KOC", "name": "Kocaelispor", "real_license": true, "squad": [{"name": "Gökhan Değirmenci", "pos": "GK", "rating": 69}, {"name": "Aaron Appindangoyé", "pos": "CB", "rating": 71}, {"name": "Ryan Mendes", "pos": "LW", "rating": 72}, {"name": "Marcao", "pos": "ST", "rating": 73}]},
-        {"team_id": "AMD", "name": "Amed SK", "real_license": true, "squad": [{"name": "Veysel Sapan", "pos": "GK", "rating": 67}, {"name": "Amadou Cissé", "pos": "CB", "rating": 70}, {"name": "Rayan Raveloson", "pos": "CM", "rating": 72}, {"name": "Britt Assombalonga", "pos": "ST", "rating": 71}]},
-        {"team_id": "ISL", "name": "İstanbulspor", "real_license": true, "squad": [{"name": "Mücahit Serbest", "pos": "GK", "rating": 66}, {"name": "Okan Erdoğan", "pos": "CB", "rating": 69}, {"name": "Florian Loshaj", "pos": "CM", "rating": 71}, {"name": "Emir Kaan Gültekin", "pos": "ST", "rating": 69}]},
-        {"team_id": "PEN", "name": "Pendikspor", "real_license": true, "squad": [{"name": "Erdem Canpolat", "pos": "GK", "rating": 68}, {"name": "Welinton", "pos": "CB", "rating": 70}, {"name": "Nuno Sequeira", "pos": "LB", "rating": 71}, {"name": "Emeka Eze", "pos": "ST", "rating": 70}]},
-        {"team_id": "KAR", "name": "Fatih Karagümrük", "real_license": true, "squad": [{"name": "Emre Bilgin", "pos": "GK", "rating": 68}, {"name": "Atakan Çankaya", "pos": "CB", "rating": 70}, {"name": "Emre Mor", "pos": "RW", "rating": 73}, {"name": "Wesley", "pos": "ST", "rating": 72}]},
-        {"team_id": "GEN", "name": "Gençlerbirliği", "real_license": true, "squad": [{"name": "Sinan Bolat", "pos": "GK", "rating": 70}, {"name": "Alperen Babacan", "pos": "CB", "rating": 68}, {"name": "Metehan Mimaroğlu", "pos": "LW", "rating": 69}, {"name": "Mustafa Yatabaré", "pos": "ST", "rating": 70}]},
-        {"team_id": "SAK", "name": "Sakaryaspor", "real_license": true, "squad": [{"name": "Jakub Szumski", "pos": "GK", "rating": 69}, {"name": "Erdi Dikmen", "pos": "CB", "rating": 68}, {"name": "Murat Cem Akpınar", "pos": "CM", "rating": 69}, {"name": "Fernando Andrade", "pos": "ST", "rating": 71}]},
-        {"team_id": "COR", "name": "Çorum FK", "real_license": true, "squad": [{"name": "Arif Şimşir", "pos": "GK", "rating": 66}, {"name": "Zargo Touré", "pos": "CB", "rating": 69}, {"name": "Hasan Abdulkareem", "pos": "RW", "rating": 70}, {"name": "Thomas Verheydt", "pos": "ST", "rating": 70}]},
-        {"team_id": "BOL", "name": "Boluspor", "real_license": true, "squad": [{"name": "Çağlar Şahin Akbaba", "pos": "GK", "rating": 68}, {"name": "Veaceslav Posmac", "pos": "CB", "rating": 69}, {"name": "Jefferson", "pos": "CM", "rating": 70}, {"name": "Adel Bettaieb", "pos": "ST", "rating": 69}]},
-        {"team_id": "BNS", "name": "Bandırmaspor", "real_license": true, "squad": [{"name": "Zafer Görgen", "pos": "GK", "rating": 67}, {"name": "Atınç Nukan", "pos": "CB", "rating": 70}, {"name": "Rémi Mulumba", "pos": "CM", "rating": 69}, {"name": "Paulinho", "pos": "ST", "rating": 71}]},
-        {"team_id": "ERR", "name": "Erzurumspor FK", "real_license": true, "squad": [{"name": "Göktuğ Bakırbaş", "pos": "GK", "rating": 68}, {"name": "Nihad Mujakić", "pos": "CB", "rating": 70}, {"name": "Sefa Akgün", "pos": "CM", "rating": 68}, {"name": "Eren Tozlu", "pos": "ST", "rating": 70}]},
-        {"team_id": "MAN", "name": "Manisa FK", "real_license": true, "squad": [{"name": "Alperen Uysal", "pos": "GK", "rating": 67}, {"name": "Bartu Göçmen", "pos": "CB", "rating": 67}, {"name": "Moryké Fofana", "pos": "LW", "rating": 71}, {"name": "Kwakou", "pos": "ST", "rating": 69}]},
-        {"team_id": "KEC", "name": "Keçiörengücü", "real_license": true, "squad": [{"name": "Metin Uçar", "pos": "GK", "rating": 67}, {"name": "Arda Şengül", "pos": "CB", "rating": 66}, {"name": "Erkam Develi", "pos": "CM", "rating": 68}, {"name": "Moustapha Camara", "pos": "ST", "rating": 68}]},
-        {"team_id": "ADR", "name": "Adanaspor", "real_license": true, "squad": [{"name": "Jankat Yılmaz", "pos": "GK", "rating": 66}, {"name": "Fatih Kurucuk", "pos": "CB", "rating": 68}, {"name": "Check Oumar Diakité", "pos": "CM", "rating": 69}, {"name": "Metehan Altunbaş", "pos": "ST", "rating": 67}]},
-        {"team_id": "UMR", "name": "Ümraniyespor", "real_license": true, "squad": [{"name": "Cihan Topaloğlu", "pos": "GK", "rating": 67}, {"name": "Mustafa Eser", "pos": "CB", "rating": 67}, {"name": "Serkan Göksu", "pos": "CM", "rating": 68}, {"name": "Cebio Soukou", "pos": "RW", "rating": 70}]},
-        {"team_id": "IGR", "name": "Iğdır FK", "real_license": true, "squad": [{"name": "Furkan Köse", "pos": "GK", "rating": 67}, {"name": "Kévin Rodrigues", "pos": "LB", "rating": 71}, {"name": "Adrien Regattin", "pos": "CAM", "rating": 72}, {"name": "Kosta Aleksić", "pos": "ST", "rating": 70}]},
-        {"team_id": "URFA", "name": "Şanlıurfaspor", "real_license": true, "squad": [{"name": "Erzhan Tokotaev", "pos": "GK", "rating": 67}, {"name": "Fatih Eren", "pos": "CB", "rating": 66}, {"name": "Hasan Hüseyin Acar", "pos": "CM", "rating": 68}, {"name": "Olarenwaju Kayode", "pos": "ST", "rating": 70}]},
-        {"team_id": "ESN", "name": "Esenler Erokspor", "real_license": true, "squad": [{"name": "Ekrem Kılıçarslan", "pos": "GK", "rating": 67}, {"name": "Metehan Mert", "pos": "CB", "rating": 68}, {"name": "Junior Fernandes", "pos": "LW", "rating": 71}, {"name": "Hamza Čataković", "pos": "ST", "rating": 70}]},
-        {"team_id": "YEN", "name": "Yeni Malatyaspor", "real_license": true, "squad": [{"name": "Abdulsamed Damlu", "pos": "GK", "rating": 63}, {"name": "Yiğit Uçar", "pos": "CB", "rating": 62}, {"name": "Berat Yaman", "pos": "CM", "rating": 62}, {"name": "Enes Savtekin", "pos": "ST", "rating": 63}]}
-      ]
-    },
-    {
-      "league_id": "TR_2L",
-      "league_name": "TFF 2. Lig",
-      "country": "Turkey",
-      "tier": 3,
-      "real_license": true,
-      "teams": [
-        {"team_id": "BUR", "name": "Bursaspor", "real_license": true, "squad": [{"name": "Anıl Atağ", "pos": "GK", "rating": 66}, {"name": "Mehmet Yiğit", "pos": "CB", "rating": 67}, {"name": "Ahmet İlhan Özek", "pos": "RW", "rating": 68}, {"name": "Muhammet Demir", "pos": "ST", "rating": 69}]},
-        {"team_id": "ALT", "name": "Altay SK", "real_license": true, "squad": [{"name": "Ozan Evrim Özenç", "pos": "GK", "rating": 65}, {"name": "Sefa Özdemir", "pos": "CB", "rating": 64}, {"name": "Ceyhun Gülselam", "pos": "CDM", "rating": 67}, {"name": "Murat Uluç", "pos": "ST", "rating": 64}]},
-        {"team_id": "VAN", "name": "Vanspor FK", "real_license": true, "squad": [{"name": "Kurtuluş Yurt", "pos": "GK", "rating": 65}, {"name": "Burak Öksüz", "pos": "CB", "rating": 67}, {"name": "Sergen Yatağan", "pos": "CM", "rating": 66}, {"name": "Batuhan Kör", "pos": "ST", "rating": 67}]},
-        {"team_id": "MEN", "name": "Menemen FK", "real_license": true, "squad": [{"name": "Kıvanç Küçükkarış", "pos": "GK", "rating": 64}, {"name": "Mazlum Demir", "pos": "CB", "rating": 65}, {"name": "Hakkı Türker", "pos": "CM", "rating": 65}, {"name": "Mert Chan", "pos": "ST", "rating": 66}]},
-        {"team_id": "SRY", "name": "Sarıyer", "real_license": true, "squad": [{"name": "Aykut Özer", "pos": "GK", "rating": 66}, {"name": "Metehan Baltacı", "pos": "CB", "rating": 68}, {"name": "Hakan Kütük", "pos": "CM", "rating": 65}, {"name": "Sertaç Çam", "pos": "ST", "rating": 67}]},
-        {"team_id": "1461", "name": "1461 Trabzon", "real_license": true, "squad": [{"name": "Ömer Kahveci", "pos": "GK", "rating": 65}, {"name": "Buğrahan Karslı", "pos": "CB", "rating": 64}, {"name": "Tunahan Ergül", "pos": "CM", "rating": 65}, {"name": "Enes Karakuş", "pos": "ST", "rating": 66}]},
-        {"team_id": "KST", "name": "Kastamonuspor", "real_license": true, "squad": [{"name": "Sertan Yiğenoğlu", "pos": "GK", "rating": 64}, {"name": "Faruk Öztürk", "pos": "CB", "rating": 65}, {"name": "İsmail Güven", "pos": "CM", "rating": 65}, {"name": "Oğuz Yılmaz", "pos": "ST", "rating": 66}]},
-        {"team_id": "ISK", "name": "İskenderunspor", "real_license": true, "squad": [{"name": "Onur Can Özcan", "pos": "GK", "rating": 64}, {"name": "Kaan Yüksel", "pos": "CB", "rating": 65}, {"name": "Ali Keten", "pos": "CM", "rating": 64}, {"name": "Ömer Kuşan", "pos": "ST", "rating": 66}]},
-        {"team_id": "BUCA", "name": "Bucaspor 1928", "real_license": true, "squad": [{"name": "Korcan Çelikay", "pos": "GK", "rating": 65}, {"name": "Lokman Gör", "pos": "CB", "rating": 66}, {"name": "Mehmet Sak", "pos": "CM", "rating": 65}, {"name": "Yasin Öztekin", "pos": "ST", "rating": 67}]},
-        {"team_id": "ELZ", "name": "Elazığspor", "real_license": true, "squad": [{"name": "Muhammet Birkan Tetik", "pos": "GK", "rating": 64}, {"name": "Ercan Coşkun", "pos": "CB", "rating": 65}, {"name": "Beykan Şimşek", "pos": "CAM", "rating": 67}, {"name": "Yusuf Mert Tunç", "pos": "ST", "rating": 66}]},
-        {"team_id": "ALN", "name": "Altınordu", "real_license": true, "squad": [{"name": "Serhat Öztaşdelen", "pos": "GK", "rating": 64}, {"name": "Hasan Berat Kayalı", "pos": "CB", "rating": 63}, {"name": "Metehan Yılmaz", "pos": "CM", "rating": 65}, {"name": "Hüseyin Bulut", "pos": "ST", "rating": 65}]},
-        {"team_id": "ANKD", "name": "Ankara Demirspor", "real_license": true, "squad": [{"name": "Deniz Kök", "pos": "GK", "rating": 63}, {"name": "Ender Aygören", "pos": "CB", "rating": 64}, {"name": "Barış Zeren", "pos": "CM", "rating": 65}, {"name": "Ozan İsmail Koç", "pos": "ST", "rating": 65}]},
-        {"team_id": "SRK", "name": "Serik Belediyespor", "real_license": true, "squad": [{"name": "Aydın Bağ", "pos": "GK", "rating": 65}, {"name": "Gökhan Karadeniz", "pos": "CAM", "rating": 67}, {"name": "Feyyaz Belen", "pos": "CB", "rating": 65}, {"name": "Erkan Eyibil", "pos": "RW", "rating": 66}]},
-        {"team_id": "AKS", "name": "68 Aksarayspor", "real_license": true, "squad": [{"name": "Ali Rıza Levent", "pos": "GK", "rating": 63}, {"name": "Onur Ramazan Toprak", "pos": "RW", "rating": 66}, {"name": "Doğan Ateş", "pos": "CM", "rating": 64}, {"name": "Yasin Abdioğlu", "pos": "ST", "rating": 66}]},
-        {"team_id": "ISP", "name": "Isparta 32 Spor", "real_license": true, "squad": [{"name": "Berk Balaban", "pos": "GK", "rating": 65}, {"name": "Yiğithan Güveli", "pos": "CB", "rating": 65}, {"name": "Abdulkerim Canlı", "pos": "CM", "rating": 64}, {"name": "Kubilay Türk Yılmaz", "pos": "ST", "rating": 65}]},
-        {"team_id": "KLK", "name": "Kırklarelispor", "real_license": true, "squad": [{"name": "Mizhat Burak Sarı", "pos": "GK", "rating": 64}, {"name": "Bedirhan Öztürk", "pos": "CB", "rating": 63}, {"name": "Hüseyin Eray Karatöl", "pos": "CM", "rating": 64}, {"name": "Erdoğan Kaya", "pos": "ST", "rating": 65}]},
-        {"team_id": "FET", "name": "Fethiyespor", "real_license": true, "squad": [{"name": "Arda Akbulut", "pos": "GK", "rating": 64}, {"name": "Şahan Akyüz", "pos": "CB", "rating": 64}, {"name": "Ömer Gündüz", "pos": "CM", "rating": 65}, {"name": "Ali Ceylan", "pos": "ST", "rating": 65}]},
-        {"team_id": "KRC", "name": "Karacabey Belediyespor", "real_license": true, "squad": [{"name": "Eray Birniçan", "pos": "GK", "rating": 64}, {"name": "Ahmet Devret", "pos": "CB", "rating": 63}, {"name": "Berke Özgün", "pos": "CM", "rating": 64}, {"name": "Koray Yağcı", "pos": "ST", "rating": 65}]}
-      ]
-    },
-    {
-      "league_id": "TR_3L",
-      "league_name": "TFF 3. Lig",
-      "country": "Turkey",
-      "tier": 4,
-      "real_license": true,
-      "teams": [
-        {"team_id": "KSK", "name": "Karşıyaka SK", "real_license": true, "squad": [{"name": "Hasan Sürmeli", "pos": "GK", "rating": 63}, {"name": "Cenk Özkaçar", "pos": "CB", "rating": 68}, {"name": "Enes Nalbantoğlu", "pos": "LW", "rating": 65}, {"name": "Yasin Ozan", "pos": "ST", "rating": 65}]},
-        {"team_id": "ORD", "name": "Orduspor 1967", "real_license": true, "squad": [{"name": "Muhammet Can Tuncer", "pos": "GK", "rating": 62}, {"name": "Erdoğan İspir", "pos": "CB", "rating": 62}, {"name": "Sarper Çağlar", "pos": "RW", "rating": 64}, {"name": "Taha Balcı", "pos": "ST", "rating": 64}]},
-        {"team_id": "BAL", "name": "Balıkesirspor", "real_license": true, "squad": [{"name": "Hüseyin Altıntaş", "pos": "GK", "rating": 63}, {"name": "Birol Parlak", "pos": "CB", "rating": 63}, {"name": "Sedat Dursun", "pos": "CM", "rating": 63}, {"name": "Artun Akçakın", "pos": "ST", "rating": 64}]},
-        {"team_id": "AYD", "name": "Efeler 09 SFK", "real_license": true, "squad": [{"name": "Kemal Mert Ceylan", "pos": "GK", "rating": 61}, {"name": "Süleyman Çelik", "pos": "CB", "rating": 62}, {"name": "Uğur Çetinkaya", "pos": "CM", "rating": 62}, {"name": "İshak Kurt", "pos": "ST", "rating": 64}]},
-        {"team_id": "DZN", "name": "Düzcespor", "real_license": true, "squad": [{"name": "Gökhan Siverek", "pos": "GK", "rating": 62}, {"name": "Koray Baykara", "pos": "CB", "rating": 62}, {"name": "Kaan Yılmaz", "pos": "CM", "rating": 63}, {"name": "İbrahim Alan", "pos": "ST", "rating": 63}]},
-        {"team_id": "ESK", "name": "Eskişehirspor", "real_license": true, "squad": [{"name": "Turgut Kiraz", "pos": "GK", "rating": 63}, {"name": "Cenk Özbey", "pos": "CB", "rating": 62}, {"name": "Kerem Eryılmaz", "pos": "CM", "rating": 63}, {"name": "Necati Önal", "pos": "ST", "rating": 65}]},
-        {"team_id": "DEN", "name": "Denizlispor", "real_license": true, "squad": [{"name": "Ali Eren Yalçın", "pos": "GK", "rating": 62}, {"name": "Emre Yıldırım", "pos": "CB", "rating": 61}, {"name": "Oktay Kısaoğlu", "pos": "CM", "rating": 62}, {"name": "Alaattin Öner", "pos": "ST", "rating": 63}]},
-        {"team_id": "SIL", "name": "Silivrispor", "real_license": true, "squad": [{"name": "Ercüment Kafkasyalı", "pos": "GK", "rating": 62}, {"name": "Kerem Kuru", "pos": "CB", "rating": 62}, {"name": "Emre Eser", "pos": "CM", "rating": 63}, {"name": "Batuhan Er", "pos": "ST", "rating": 64}]},
-        {"team_id": "AFY", "name": "Afyonspor", "real_license": true, "squad": [{"name": "Boran Güngör", "pos": "GK", "rating": 61}, {"name": "Hüseyin İçlek", "pos": "CB", "rating": 61}, {"name": "Şükrü Kurt", "pos": "CM", "rating": 62}, {"name": "Mustafa Erkasap", "pos": "ST", "rating": 62}]},
-        {"team_id": "AYB", "name": "Ayvalıkgücü Bld", "real_license": true, "squad": [{"name": "Taner Tamince", "pos": "GK", "rating": 62}, {"name": "Polat Güren", "pos": "CB", "rating": 62}, {"name": "Yunuscancan Ali", "pos": "CM", "rating": 62}, {"name": "Tugay Yıldırım", "pos": "ST", "rating": 63}]},
-        {"team_id": "KUT", "name": "Belediye Kütahyaspor", "real_license": true, "squad": [{"name": "Taylan Arman", "pos": "GK", "rating": 62}, {"name": "Emrah Dağ", "pos": "CB", "rating": 63}, {"name": "Onur Civelek", "pos": "CM", "rating": 63}, {"name": "Can Vural", "pos": "ST", "rating": 64}]},
-        {"team_id": "MUL", "name": "Muğla Belediyespor", "real_license": true, "squad": [{"name": "Oğuzhan Çelik", "pos": "GK", "rating": 61}, {"name": "Sercan Yılmaz", "pos": "CB", "rating": 61}, {"name": "Caner Koca", "pos": "CM", "rating": 62}, {"name": "Murat Gürbüzerol", "pos": "ST", "rating": 63}]},
-        {"team_id": "EDR", "name": "Edremitspor", "real_license": true, "squad": [{"name": "Emre Yılmazer", "pos": "GK", "rating": 60}, {"name": "Ali Ateş", "pos": "CB", "rating": 61}, {"name": "Tolga Değirmenci", "pos": "CM", "rating": 61}, {"name": "Metehan Yüksel", "pos": "ST", "rating": 62}]},
-        {"team_id": "SVG", "name": "Sivas Gücü Belediyespor", "real_license": true, "squad": [{"name": "Ahmet Doğan", "pos": "GK", "rating": 60}, {"name": "Fatih Özkan", "pos": "CB", "rating": 61}, {"name": "Muhammet Kaya", "pos": "CM", "rating": 61}, {"name": "Yunus Emre Ceylan", "pos": "ST", "rating": 
-        {"team_id": "KRC_AMB", "name": "Karacaahmet Belediyespor", "real_license": true, "squad": [{"name": "Samet Kaan", "pos": "GK", "rating": 60}, {"name": "Enes Şahin", "pos": "CB", "rating": 60}, {"name": "Kaan Yılmaz", "pos": "CM", "rating": 61}, {"name": "Burak Can", "pos": "ST", "rating": 61}]},
-        {"team_id": "TRE", "name": "Tire FK", "real_license": true, "squad": [{"name": "Fatih Gülmez", "pos": "GK", "rating": 62}, {"name": "Semih Can", "pos": "CB", "rating": 62}, {"name": "Murat Uluç", "pos": "CM", "rating": 63}, {"name": "Mert Öztürk", "pos": "ST", "rating": 63}]},
-        {"team_id": "KES_CLK", "name": "Kestel Çilekspor", "real_license": true, "squad": [{"name": "Mertcan Yılmaz", "pos": "GK", "rating": 61}, {"name": "Uğur Bulut", "pos": "CB", "rating": 61}, {"name": "Oğuzhan Türk", "pos": "CM", "rating": 62}, {"name": "Emre Aktaş", "pos": "ST", "rating": 63}]}
-      ]
+import json
+
+def generate_licensed_tff_datapack():
+    leagues_config = [
+        {"id": 121, "name": "Trendyol Süper Lig", "tier": 1},
+        {"id": 122, "name": "Trendyol 1. Lig", "tier": 2},
+        {"id": 123, "name": "TFF 2. Lig", "tier": 3},
+        {"id": 124, "name": "TFF 3. Lig", "tier": 4}
+    ]
+
+    # Her ligdeki 18 takımın gerçek oyuncuları, reytingleri ve yaşları
+    teams_database = {
+        121: [
+            ("Galatasaray SK", "GS", "İstanbul", "RAMS Park", 52223, [
+                ("Fernando Muslera", "GK", 80, 39), ("Victor Osimhen", "ST", 87, 27), 
+                ("Mauro Icardi", "ST", 83, 32), ("Lucas Torreira", "CDM", 82, 29), ("Barış Alper Yılmaz", "RW", 79, 25)
+            ]),
+            ("Fenerbahçe SK", "FB", "İstanbul", "Ülker Stadyumu", 47834, [
+                ("Dominik Livaković", "GK", 81, 31), ("Youssef En-Nesyri", "ST", 81, 28), 
+                ("Fred", "CM", 81, 32), ("Sebastian Szymański", "CAM", 80, 26), ("Edin Džeko", "ST", 80, 39)
+            ]),
+            ("Beşiktaş JK", "BJK", "İstanbul", "Tüpraş Stadyumu", 42590, [
+                ("Mert Günok", "GK", 78, 36), ("Rafa Silva", "CAM", 83, 32), 
+                ("Ciro Immobile", "ST", 82, 35), ("Gedson Fernandes", "CM", 80, 27), ("Milot Rashica", "RW", 77, 29)
+            ]),
+            ("Trabzonspor", "TS", "Trabzon", "Papara Park", 40782, [
+                ("Uğurcan Çakır", "GK", 80, 29), ("Simon Banza", "ST", 79, 29), 
+                ("Edin Višća", "RW", 78, 35), ("Arseniy Batagov", "CB", 75, 23), ("Pedro Malheiro", "RB", 74, 24)
+            ]),
+            ("Başakşehir FK", "IBFK", "İstanbul", "Fatih Terim Stadyumu", 17119, [
+                ("Volkan Babacan", "GK", 72, 37), ("Krzysztof Piątek", "ST", 78, 30), 
+                ("Deniz Türüç", "RW", 75, 33), ("Léo Duarte", "CB", 75, 29), ("Berkay Özcan", "CM", 74, 27)
+            ]),
+            ("Kasımpaşa SK", "KAS", "İstanbul", "Recep Tayyip Erdoğan Stadyumu", 14250, [
+                ("Andreas Gianniotis", "GK", 71, 33), ("Nuno Da Costa", "ST", 75, 34), 
+                ("Haris Hajradinović", "CAM", 76, 31), ("Mamadou Fall", "RW", 73, 34), ("Yasin Özcan", "CB", 72, 19)
+            ]),
+            ("Sivasspor", "SİV", "Sivas", "BG Grup 4 Eylül Stadyumu", 27532, [
+                ("Ali Şaşal Vural", "GK", 71, 35), ("Rey Manaj", "ST", 77, 28), 
+                ("Charis Charisis", "CM", 73, 31), ("Uros Radakovic", "CB", 72, 31), ("Garry Rodrigues", "LW", 72, 35)
+            ]),
+            ("Kayserispor", "KAY", "Kayseri", "RHG Enertürk Enerji Stadyumu", 32864, [
+                ("Bilal Bayazıt", "GK", 73, 26), ("Aylton Boa Morte", "RW", 74, 32), 
+                ("Stephane Bahoken", "ST", 72, 33), ("Miguel Cardoso", "LW", 73, 31), ("Gökhan Sazdağı", "RB", 71, 31)
+            ]),
+            ("Antalyaspor", "ANT", "Antalya", "Corendon Airlines Park", 32539, [
+                ("Kenan Pirić", "GK", 71, 31), ("Sam Larsson", "LW", 74, 32), 
+                ("Braian Samudio", "ST", 73, 30), ("Erdal Rakip", "CM", 72, 29), ("Veysel Sarı", "CB", 71, 37)
+            ]),
+            ("Konyaspor", "KON", "Konya", "MEDAŞ Konya Büyükşehir Stadyumu", 42000, [
+                ("Paul Bernardoni", "GK", 72, 28), ("Alassane Ndao", "RW", 73, 29), 
+                ("Umut Nayir", "ST", 72, 32), ("Riechedly Bazoer", "CB", 74, 29), ("Guilherme Sityá", "LB", 73, 35)
+            ]),
+            ("Gaziantep FK", "GFK", "Gaziantep", "Kalyon Stadyumu", 33502, [
+                ("Socrates Dioudis", "GK", 71, 32), ("Alexandru Maxim", "CAM", 74, 35), 
+                ("David Okereke", "ST", 73, 28), ("Papy Djilobodji", "CB", 71, 37), ("Deian Sorescu", "RM", 72, 28)
+            ]),
+            ("Çaykur Rizespor", "RİZ", "Rize", "Çaykur Didi Stadyumu", 15332, [
+                ("Taha Şahin", "GK", 70, 25), ("Ali Sowe", "ST", 74, 31), 
+                ("Ibrahim Olawoyin", "CM", 73, 28), ("Dal Varesanovic", "CAM", 72, 24), ("Husniddin Alikulov", "CB", 72, 26)
+            ]),
+            ("Samsunspor", "SAM", "Samsun", "Samsun 19 Mayıs Stadyumu", 33919, [
+                ("Okan Kocuk", "GK", 72, 30), ("Marius Mouandilmadji", "ST", 74, 28), 
+                ("Olivier Ntcham", "CM", 75, 29), ("Carlo Holse", "RW", 74, 26), ("Rick van Drongelen", "CB", 73, 27)
+            ]),
+            ("Alanyaspor", "ALA", "Antalya", "Alanya Oba Stadyumu", 10128, [
+                ("Ertuğrul Taşkıran", "GK", 70, 36), ("Sergio Córdova", "ST", 72, 28), 
+                ("Efecan Karaca", "RW", 72, 36), ("Richard", "CDM", 73, 31), ("Fidan Aliti", "CB", 71, 32)
+            ]),
+            ("Göztepe SK", "GÖZ", "İzmir", "Gürsel Aksel Stadyumu", 25035, [
+                ("Mateusz Lis", "GK", 73, 28), ("Rômulo Cardoso", "ST", 74, 23), 
+                ("David Tijanic", "CAM", 72, 28), ("Heliton", "CB", 73, 29), ("Djalma Silva", "LB", 71, 31)
+            ]),
+            ("Eyüpspor", "EYÜ", "İstanbul", "Recep Tayyip Erdoğan Stadyumu", 14250, [
+                ("Berke Özer", "GK", 73, 25), ("Mame Thiam", "ST", 76, 33), 
+                ("Emre Akbaba", "CAM", 74, 33), ("Samu Sáiz", "LW", 74, 35), ("Robin Yalçın", "CB", 71, 32)
+            ]),
+            ("Bodrum FK", "BOD", "Muğla", "Bodrum İlçe Stadyumu", 4500, [
+                ("Diogo Sousa", "GK", 70, 27), ("George Pușcaș", "ST", 72, 29), 
+                ("Fredy", "CM", 71, 35), ("Taulant Seferi", "LW", 71, 29), ("Ali Aytemur", "CB", 69, 37)
+            ]),
+            ("Hatayspor", "HAT", "Hatay", "Mersin Stadyumu", 25000, [
+                ("Erce Kardeşler", "GK", 70, 31), ("Vincent Aboubakar", "ST", 76, 33), 
+                ("Rui Pedro", "CAM", 71, 27), ("Guy-Marcelin Kilama", "CB", 71, 26), ("Cemali Sertel", "LB", 69, 26)
+            ])
+        ],
+        122: [
+            ("MKE Ankaragücü", "AG", "Ankara", "Eryaman Stadyumu", 22000, [
+                ("Ertaç Özbir", "GK", 72, 36), ("Tolga Ciğerci", "CDM", 74, 33), 
+                ("Renaldo Cephas", "LW", 73, 25), ("Riad Bajic", "ST", 72, 31), ("Efkan Bekiroğlu", "CAM", 73, 30)
+            ]),
+            ("Kocaelispor", "KOC", "Kocaeli", "Kocaeli Stadyumu", 34712, [
+                ("Gökhan Değirmenci", "GK", 70, 36), ("Markao", "ST", 73, 31), 
+                ("Ryan Mendes", "LW", 74, 36), ("Pedrinho", "CAM", 72, 33), ("Appindangoyé", "CB", 72, 33)
+            ]),
+            ("Amed SK", "AMD", "Diyarbakır", "Diyarbakır Stadyumu", 33000, [
+                ("Nurullah Aslan", "GK", 71, 28), ("Britt Assombalonga", "ST", 72, 33), 
+                ("Adama Traoré", "CAM", 73, 30), ("Ömer Bayram", "LB", 70, 34), ("Max Gradel", "LW", 73, 38)
+            ]),
+            ("Sakaryaspor", "SAK", "Sakarya", "Sakarya Atatürk Stadyumu", 28154, [
+                ("Jakub Szumski", "GK", 71, 33), ("Fernando Andrade", "ST", 71, 33), 
+                ("Murat Cem Akpınar", "CM", 70, 27), ("Erdi Dikmen", "CB", 69, 28), ("Bülent Uzun", "LB", 68, 35)
+            ]),
+            ("Gençlerbirliği", "GB", "Ankara", "Eryaman Stadyumu", 22000, [
+                ("Sinan Bolat", "GK", 71, 37), ("Metehan Mimaroğlu", "LW", 70, 30), 
+                ("Moussa Djitté", "ST", 71, 26), ("Buğra Çağıran", "CM", 69, 31), ("Alperen Babacan", "CB", 69, 28)
+            ]),
+            ("Fatih Karagümrük", "FKG", "İstanbul", "Atatürk Olimpiyat Stadyumu", 74753, [
+                ("Emre Bilgin", "GK", 69, 22), ("Wesley", "ST", 72, 26), 
+                ("Daniel Johnson", "CM", 71, 33), ("Papy Djilobodji", "CB", 71, 37), ("Flavio Paoletti", "CDM", 69, 23)
+            ]),
+            ("İstanbulspor", "İST", "İstanbul", "Esenyurt Necmi Kadıoğlu Stadyumu", 7500, [
+                ("Alperen Uysal", "GK", 69, 32), ("Emir Kaan Gültekin", "ST", 70, 25), 
+                ("Florian Loshaj", "CM", 71, 29), ("Okyere Wusu", "RW", 69, 28), ("Okan Erdoğan", "CB", 69, 27)
+            ]),
+            ("Pendikspor", "PEN", "İstanbul", "Pendik Stadyumu", 4105, [
+                ("Erdem Canpolat", "GK", 69, 25), ("Emeka Eze", "ST", 71, 29), 
+                ("Sandro Lima", "ST", 71, 35), ("Nuno Sequeira", "LB", 71, 35), ("Gökçek Vedat", "CM", 69, 34)
+            ]),
+            ("Boluspor", "BOL", "Bolu", "Bolu Atatürk Stadyumu", 8848, [
+                ("Çağlar Şahin Akbaba", "GK", 69, 31), ("Petar Gigic", "ST", 69, 28), 
+                ("Jefferson", "CM", 70, 32), ("Oware", "CB", 68, 23), ("Onur Ulaş", "CB", 68, 28)
+            ]),
+            ("Erzurumspor FK", "ERZ", "Erzurum", "Kazım Karabekir Stadyumu", 21374, [
+                ("Göktuğ Bakırbaş", "GK", 70, 29), ("Eren Tozlu", "ST", 71, 35), 
+                ("Suleyman Roshi", "RM", 70, 29), ("Mustafa Yumlu", "CB", 70, 38), ("Orhan Ovacıklı", "RB", 68, 37)
+            ]),
+            ("Manisa FK", "MFK", "Manisa", "Manisa 19 Mayıs Stadyumu", 16597, [
+                ("Alperen Uysal", "GK", 68, 31), ("Marios Oikonomou", "CB", 70, 33), 
+                ("Kwadwo Baah", "LW", 70, 23), ("Uğur Kaan Yıldız", "RB", 68, 23), ("Omer Ramirez", "ST", 69, 27)
+            ]),
+            ("Bandırmaspor", "BAN", "Balıkesir", "Bandırma 17 Eylül Stadyumu", 12725, [
+                ("Zafer Görgen", "GK", 68, 26), ("Marco Paixão", "ST", 72, 41), 
+                ("Coşkun Diniyev", "CM", 70, 30), ("Atabey Çiçek", "ST", 69, 30), ("Mexer", "CB", 69, 37)
+            ]),
+            ("Adanaspor", "ADA", "Adana", "Yeni Adana Stadyumu", 33000, [
+                ("Jankat Yılmaz", "GK", 67, 21), ("Rashad Muhammed", "ST", 68, 32), 
+                ("Amadou Ciss", "LW", 69, 26), ("Fatih Kurucuk", "CB", 69, 28), ("Abdoulaye Dabo", "CM", 68, 24)
+            ]),
+            ("Ümraniyespor", "ÜMR", "İstanbul", "Ümraniye Belediyesi Şehir Stadyumu", 3513, [
+                ("Cihan Topaloğlu", "GK", 68, 33), ("Cebio Soukou", "RW", 70, 33), 
+                ("Benny", "CAM", 69, 29), ("Mustafa Eser", "CB", 67, 24), ("Tomislav Glumac", "CB", 68, 34)
+            ]),
+            ("Şanlıurfaspor", "URF", "Şanlıurfa", "11 Nisan Stadyumu", 28965, [
+                ("Erzhan Tokotaev", "GK", 68, 25), ("Olarenwaju Kayode", "ST", 71, 32), 
+                ("Aly Malle", "RW", 69, 27), ("Hassan Begic", "CM", 68, 26), ("Merveille Ndockyt", "CM", 69, 27)
+            ]),
+            ("Iğdır FK", "IĞD", "Iğdır", "Iğdır Şehir Stadyumu", 3500, [
+                ("Furkan Köse", "GK", 68, 32), ("Kévin Rodrigues", "LB", 72, 31), 
+                ("Guima", "CM", 71, 30), ("Dean Lico", "CAM", 70, 26), ("Thymos Regatin", "LW", 71, 33)
+            ]),
+            ("Çorum FK", "ÇOR", "Çorum", "Çorum Şehir Stadyumu", 15000, [
+                ("Hasan Hüseyin Akınay", "GK", 68, 31), ("Thomas Verheydt", "ST", 71, 34), 
+                ("Gökhan Karadeniz", "CAM", 69, 35), ("Zargo Touré", "CB", 70, 36), ("Ferhat Yazgan", "CM", 68, 33)
+            ]),
+            ("Keçiörengücü", "KÖG", "Ankara", "Aktepe Stadyumu", 4883, [
+                ("Metin Uçar", "GK", 67, 34), ("Moustapha Camara", "ST", 68, 23), 
+                ("Eduard Rroca", "CAM", 70, 32), ("Erkam Reşmen", "RB", 68, 36), ("Arda Sengül", "CB", 66, 21)
+            ])
+        ],
+        123: [
+            ("Bursaspor", "BUR", "Bursa", "Yüzüncü Yıl Atatürk Stadyumu", 43361, [
+                ("Anıl Atağ", "GK", 66, 27), ("Muhammet Demir", "ST", 71, 34), 
+                ("Ahmet İlhan Özek", "RW", 69, 38), ("Yiğitali Bayrak", "CM", 67, 29), ("Taha Altıkardeş", "CB", 68, 22)
+            ]),
+            ("Giresunspor", "GRS", "Giresun", "Çotanak Spor Kompleksi", 22019, [
+                ("Göktan Cörüt", "GK", 63, 24), ("Şahin Dik", "LM", 64, 21), 
+                ("Mehmet Keskin", "RB", 63, 21), ("Arda Kılıç", "CB", 62, 20), ("Alperen Aydın", "ST", 63, 24)
+            ]),
+            ("Altay SK", "ALT", "İzmir", "Alsancak Mustafa Denizli Stadyumu", 14000, [
+                ("Ozan Evrim Özenç", "GK", 65, 33), ("Ceyhun Gülselam", "CDM", 67, 38), 
+                ("Deniz Kadah", "ST", 66, 39), ("Murat Uluç", "ST", 64, 44), ("Efe Sarıkaya", "CB", 67, 20)
+            ]),
+            ("Menemen FK", "MEN", "İzmir", "Menemen İlçe Stadyumu", 5000, [
+                ("Oğuz Çalışkan", "GK", 65, 37), ("Burak Yılmaz", "ST", 66, 31), 
+                ("Mazlum Demir", "CB", 65, 34), ("Emre Keskin", "CM", 64, 25), ("Erhan Kara", "LB", 64, 34)
+            ]),
+            ("Buca FK", "BUC", "İzmir", "Yeni Buca Stadyumu", 13500, [
+                ("Efe Doğan", "GK", 64, 22), ("Yasin Öztekin", "LW", 68, 38), 
+                ("Sefa Yılmaz", "RW", 66, 35), ("Erhan Çelenk", "CAM", 67, 36), ("Zeki Yıldırım", "CM", 65, 34)
+            ]),
+            ("Isparta 32 Spor", "ISP", "Isparta", "Isparta Atatürk Stadyumu", 10000, [
+                ("Alp Tutar", "GK", 64, 28), ("Kubilay Türk Yılmaz", "ST", 65, 27), 
+                ("Gürkan Başkan", "CB", 63, 24), ("Zihni Temelci", "CM", 63, 27), ("Caner Koca", "LM", 64, 28)
+            ]),
+            ("İskenderunspor", "İSK", "Hatay", "İskenderun 5 Temmuz Stadyumu", 12000, [
+                ("Onur Can Bulut", "GK", 64, 32), ("Ömer Kuşan", "ST", 65, 26), 
+                ("Ahmet Devret", "LB", 63, 37), ("Kaan Yılmaz", "CM", 64, 25), ("Ali Keten", "CB", 64, 30)
+            ]),
+            ("Sarıyer SK", "SAR", "İstanbul", "Yusuf Ziya Öniş Stadyumu", 4100, [
+                ("Aykut Özer", "GK", 65, 33), ("Sertaç Çam", "RW", 66, 33), 
+                ("Kemal Rüzgar", "ST", 67, 30), ("Hakan Jawed", "CM", 64, 28), ("Nuri Terliksiz", "CB", 64, 37)
+            ]),
+            ("Kırklarelispor", "KIR", "Kırklareli", "Kırklareli Atatürk Stadyumu", 3750, [
+                ("Mizhat Burak Sarı", "GK", 63, 29), ("Omer Faruk Ermeç", "ST", 64, 33), 
+                ("Erdinç Pekgöz", "CB", 63, 35), ("Hüseyin Eray Karatutlu", "CM", 63, 27), ("Serhat Mermer", "LM", 62, 29)
+            ]),
+            ("İnegölspor", "İNE", "Bursa", "İnegöl İlçe Stadyumu", 4950, [
+                ("Bekir Sevgi", "GK", 64, 37), ("Fatih Aktay", "ST", 65, 28), 
+                ("Mustafa Mateus", "CM", 63, 25), ("Batuhan Altıntaş", "ST", 64, 29), ("Ali Aydemir", "RW", 63, 26)
+            ]),
+            ("Somaspor", "SOM", "Manisa", "Soma Atatürk Stadyumu", 3500, [
+                ("Yasin Davuş", "GK", 62, 24), ("Kenan Fakılı", "ST", 64, 24), 
+                ("Yiğit Utku Gökyaprak", "CB", 62, 21), ("Kamil Fidan", "CM", 63, 22), ("Murat Şevik", "RB", 62, 23)
+            ]),
+            ("Etimesgut Bld", "ETİ", "Ankara", "Etimesgut Bld Atatürk Stadyumu", 2640, [
+                ("Ramazan Köse", "GK", 64, 37), ("Niyazi Batuhan Salman", "LW", 64, 27), 
+                ("Efe Geçim", "CM", 62, 22), ("Berk Akyol", "CB", 63, 26), ("Mehmet Sıddık İstemi", "RW", 63, 36)
+            ]),
+            ("Düzcespor", "DÜZ", "Düzce", "Düzce Şehir Stadyumu", 7000, [
+                ("Taha Ayan", "GK", 63, 25), ("İbrahim Alan", "ST", 64, 32), 
+                ("Yasin Palaz", "RB", 63, 37), ("Şahin Şafakoğlu", "CB", 63, 33), ("Kaan Yılmaz", "CM", 62, 24)
+            ]),
+            ("Kastamonuspor", "KAS", "Kastamonu", "Gazi Stadyumu", 4037, [
+                ("Sertaç Güzel", "GK", 64, 28), ("Oğuz Yılmaz", "CB", 66, 33), 
+                ("Ali Altınöz", "LW", 65, 23), ("İsmail Güven", "CM", 64, 31), ("Erhan Kartal", "RB", 64, 33)
+            ]),
+            ("Vanspor FK", "VAN", "Van", "Atatürk Stadyumu", 5885, [
+                ("Kurtuluş Yurt", "GK", 64, 35), ("Fuat Bavuk", "ST", 66, 28), 
+                ("Hasan Bilal", "LW", 65, 27), ("Ahmet Eren", "LB", 64, 28), ("Metehan Mert", "CB", 65, 23)
+            ]),
+            ("Karaman FK", "KRM", "Karaman", "Karaman Kemal Kaynaş Stadyumu", 2250, [
+                ("Mert Can Salık", "GK", 62, 23), ("Sabrican Vural", "ST", 63, 24), 
+                ("Anıl Gözütok", "CAM", 64, 25), ("Eyüp Can Delibalta", "CB", 63, 31), ("Ömer Faruk Yılmaz", "RB", 62, 23)
+            ]),
+            ("Aksaray Bld", "AKS", "Aksaray", "Dağılgan Stadyumu", 7000, [
+                ("Ali Rıza Altıntepe", "GK", 63, 27), ("Yasin Abdioğlu", "ST", 64, 31), 
+                ("Onur Ramazan Toprak", "RW", 64, 33), ("Ercan Yazıcı", "CB", 64, 31), ("Atamer Bilgin", "CM", 63, 26)
+            ]),
+            ("Derincespor", "DER", "Kocaeli", "Derence Suni Çim Stadyumu", 1600, [
+                ("Volkan Mert Korkmaz", "GK", 62, 28), ("Berat Ali Genç", "RW", 63, 32), 
+                ("Denizhan Deniz", "ST", 63, 25), ("Hüseyin Yılmaz", "CM", 62, 26), ("Caner Koca", "CB", 62, 28)
+            ])
+        ],
+        124: [
+            ("Eskişehirspor", "ESK", "Eskişehir", "Yeni Eskişehir Stadyumu", 32500, [
+                ("Rasim Mutlu", "GK", 62, 36), ("Necati Zengin", "ST", 63, 26), 
+                ("Cengizhan Avcı", "LW", 63, 27), ("Ercan Kuruçay", "ST", 63, 37), ("Hasan Ulaş Uygur", "CM", 62, 24)
+            ]),
+            ("Karşıyaka SK", "KSK", "İzmir", "Alsancak Mustafa Denizli Stadyumu", 14000, [
+                ("Hasan Suragül", "GK", 63, 28), ("Enes Nalbantoğlu", "LW", 66, 30), 
+                ("İshak Kurt", "ST", 65, 33), ("Cenk Ahmet Alkılıç", "RW", 64, 38), ("Hakan Canbazoğlu", "GK", 63, 38)
+            ]),
+            ("Balıkesirspor", "BAL", "Balıkesir", "Balıkesir Atatürk Stadyumu", 13730, [
+                ("Hüseyin Altıntaş", "GK", 62, 31), ("Artun Akçakın", "ST", 64, 33), 
+                ("Ömer Faruk Sezgin", "ST", 63, 26), ("Sedat Dursun", "CB", 62, 28), ("Yiğit Epözdemir", "CM", 61, 21)
+            ]),
+            ("Orduspor 1967", "ORD", "Ordu", "Yeni Ordu Stadyumu", 16765, [
+                ("Muhammet Can Tuncer", "GK", 62, 25), ("Cevavat Can Dönmez", "ST", 63, 26), 
+                ("Uğur Ayhan", "CM", 62, 33), ("Ömer Alper Tatlısu", "CB", 62, 28), ("Metin Sevinç", "RW", 62, 31)
+            ]),
+            ("Elazığspor", "ELA", "Elazığ", "Yeni Elazığ Stadyumu", 18423, [
+                ("Hakan Canbazoğlu", "GK", 64, 38), ("Beykan Şimşek", "LW", 66, 31), 
+                ("Yusuf Mert Tunç", "ST", 64, 25), ("Kerim Frei", "LM", 66, 32), ("Ercan Coşkun", "CB", 63, 31)
+            ]),
+            ("Tarsus İdman Yurdu", "TİY", "Mersin", "Tarsus İlçe Stadyumu", 4189, [
+                ("Mansur Darak", "GK", 60, 22), ("Cemil Devrim", "ST", 61, 23), 
+                ("Ferhat Lort", "CB", 60, 21), ("Yusuf Ekici", "CM", 60, 20), ("Tuğrul Başkan", "RB", 60, 22)
+            ]),
+            ("Batman Petrolspor", "BAT", "Batman", "Batman Stadyumu", 15000, [
+                ("Yusuf Balcıoğlu", "GK", 63, 33), ("Atabey Çiçek", "ST", 66, 30), 
+                ("Bünyamin Yürür", "CM", 64, 28), ("Mert Çapar", "LW", 65, 28), ("Semih Karadeniz", "RB", 63, 29)
+            ]),
+            ("Ayvalıkgücü Bld", "AYV", "Balıkesir", "Hüsnü Uğural Stadyumu", 5000, [
+                ("Taner Tamince", "GK", 61, 27), ("Ali Habeşoğlu", "ST", 63, 22), 
+                ("Tuğrkhan Kuzu", "CM", 61, 26), ("Polat Güren", "CB", 62, 34), ("Samet Öztürk", "LW", 61, 27)
+            ]),
+            ("Kuşadasıspor", "KUŞ", "Aydın", "Kuşadası Özer Türk Stadyumu", 8000, [
+                ("Yunus Emre Kırdal", "GK", 61, 26), ("Aykut Çift", "ST", 63, 32), 
+                ("Serdar Eylik", "RW", 62, 35), ("Muhammet Özvardar", "CM", 61, 28), ("Eren Topmuröz", "CB", 61, 23)
+            ]),
+            ("Nevşehir Bld", "NEV", "Nevşehir", "Gazi Stadyumu", 7500, [
+                ("Mustafa Gürbüz", "GK", 61, 24), ("İbrahim Topaloğlu", "ST", 62, 26), 
+                ("Ahmet Özer", "CM", 61, 29), ("Bahanettin Berke", "CB", 61, 23), ("Engin Berk", "LB", 60, 24)
+            ]),
+            ("Silivrispor", "SİL", "İstanbul", "Silivri Müjdat Gürsu Stadyumu", 2700, [
+                ("Kaan Atakan", "GK", 61, 23), ("Batuhan Kurt", "ST", 63, 27), 
+                ("Tahsin Hacımustafaoğlu", "CAM", 62, 33), ("Eren Arslan", "CB", 61, 25), ("Kert Kuru", "RB", 61, 23)
+            ]),
+            ("Pazarspor", "PAZ", "Rize", "Pazar İlçe Stadyumu", 2442, [
+                ("Dursun Cem Ateş", "GK", 61, 23), ("Hacı Şükrü Çiçek", "ST", 62, 28), 
+                ("Göktuğ Yılmaz", "CM", 61, 24), ("Emre Akgün", "CB", 62, 32), ("Furak Mızrak", "LB", 61, 25)
+            ]),
+            ("Amasyaspor", "AMA", "Amasya", "12 Haziran Stadyumu", 7800, [
+                ("Ozan Can Oruç", "GK", 61, 26), ("Buğrahan Tuncay", "ST", 62, 27), 
+                ("Sabit Hakan Yılmaz", "RW", 62, 28), ("Muhammed Enes", "CM", 61, 24), ("Mahmut Boz", "CB", 61, 34)
+            ]),
+            ("Çatalcaspor", "ÇAT", "İstanbul", "Ziya Altınoğlu Stadyumu", 6100, [
+                ("Mehmet Mert", "GK", 60, 24), ("Rehab Muhtar", "ST", 61, 25), 
+                ("Murat Yılmaz", "ST", 62, 37), ("Furkan Orak", "CB", 61, 26), ("Yusuf Atasoy", "CM", 60, 24)
+            ]),
+            ("Edirnespor", "EDİ", "Edirne", "25 Kasım Stadyumu", 5000, [
+                ("Bahtiyar Yılmaz", "GK", 61, 26), ("Yağız Berkay", "ST", 62, 23), 
+                ("Yunusemre Kılınç", "CB", 61, 26), ("Ömer Can", "CM", 61, 28), ("Bertuğ Başdemir", "RM", 61, 24)
+            ]),
+            ("Kütahyaspor", "KÜT", "Kütahya", "Dumlupınar Stadyumu", 11495, [
+                ("Taylan Arman", "GK", 61, 27), ("Can Vural", "ST", 64, 27), 
+                ("Eray Nen Hatipoğlu", "CM", 62, 29), ("Şener Özbayraklı", "RB", 64, 36), ("Gökhan Payal", "CB", 62, 33)
+            ]),
+            ("Yozgatspor", "YOZ", "Yozgat", "Yozgat Bozok Stadyumu", 8640, [
+                ("Bilal Karataş", "GK", 60, 23), ("Uğur Kapısız", "ST", 61, 38), 
+                ("Ziya Alkurt", "RW", 63, 35), ("Burak Yılmaz", "CB", 61, 29), ("Selyan Gül", "CM", 60, 22)
+            ]),
+            ("Mardin 1969", "MAR", "Mardin", "21 Kasım Stadyumu", 5700, [
+                ("Kablan Aşar", "GK", 61, 25), ("Ali Cansun", "ST", 62, 26), 
+                ("Serkan Köse", "CM", 61, 28), ("Bedirhan Salih", "CB", 61, 24), ("Islam Reçber", "LW", 61, 26)
+            ])
+        ]
     }
-  ]
-}
+
+    teams_list = []
+    global_team_id = 1000
+    global_player_id = 20000
+
+    for league in leagues_config:
+        league_id = league["id"]
+        raw_teams = teams_database[league_id]
+
+        for team_info in raw_teams:
+            global_team_id += 1
+            team_name, short_name, city, stadium, capacity, real_players = team_info
+
+            players_list = []
+            for p_name, p_pos, p_rating, p_age in real_players:
+                global_player_id += 1
+                players_list.append({
+                    "id": global_player_id,
+                    "name": p_name,
+                    "pos": p_pos,
+                    "rating": p_rating,
+                    "age": p_age
+                })
+
+            teams_list.append({
+                "id": global_team_id,
+                "league_id": league_id,
+                "name": team_name,
+                "short_name": short_name,
+                "city": city,
+                "stadium": stadium,
+                "capacity": capacity,
+                "logo_url": f"https://assets.soccermanager.com/logos/clubs/{global_team_id}.png",
+                "players": players_list
+            })
+
+    data_pack = {
+        "pack_info": {
+            "title": "TFF Full Pyramid Licensed Roster Pack 2026",
+            "version": "4.0",
+            "author": "SM Modding Community",
+            "game_version": "SM26",
+            "country": "Turkey",
+            "total_teams": len(teams_list)
+        },
+        "leagues": [
+            {"id": 121, "name": "Trendyol Süper Lig", "tier": 1, "teams_count": 18, "relegation_slots": 4},
+            {"id": 122, "name": "Trendyol 1. Lig", "tier": 2, "teams_count": 18, "promotion_slots": 3, "relegation_slots": 4},
+            {"id": 123, "name": "TFF 2. Lig", "tier": 3, "teams_count": 18, "promotion_slots": 3, "relegation_slots": 4},
+            {"id": 124, "name": "TFF 3. Lig", "tier": 4, "teams_count": 18, "promotion_slots": 4}
+        ],
+        "teams": teams_list
+    }
+
+    file_name = "tff_licensed_full_2026.json"
+    with open(file_name, "w", encoding="utf-8") as f:
+        json.dump(data_pack, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ Lisanslı veri paketi başarıyla oluşturuldu: '{file_name}' ({len(teams_list)} Takım / 360 Futbolcu)")
+
+if __name__ == "__main__":
+    generate_licensed_tff_datapack()
