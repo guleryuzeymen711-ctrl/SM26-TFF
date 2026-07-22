@@ -1,5 +1,4 @@
-{
-  "pack_name": "SM26 - TFF Tum Ligler Veritabanı (Lisansli & Reytingli 2026)",
+pack_name": "SM26 - TFF Tum Ligler Veritabanı (Lisansli & Reytingli 2026)",
   "version": "2026.3.0",
   "author": "SM26 Community",
   "licensed": true,
@@ -108,7 +107,7 @@
         {"team_id": "KUT", "name": "Belediye Kütahyaspor", "real_license": true, "squad": [{"name": "Taylan Arman", "pos": "GK", "rating": 62}, {"name": "Emrah Dağ", "pos": "CB", "rating": 63}, {"name": "Onur Civelek", "pos": "CM", "rating": 63}, {"name": "Can Vural", "pos": "ST", "rating": 64}]},
         {"team_id": "MUL", "name": "Muğla Belediyespor", "real_license": true, "squad": [{"name": "Oğuzhan Çelik", "pos": "GK", "rating": 61}, {"name": "Sercan Yılmaz", "pos": "CB", "rating": 61}, {"name": "Caner Koca", "pos": "CM", "rating": 62}, {"name": "Murat Gürbüzerol", "pos": "ST", "rating": 63}]},
         {"team_id": "EDR", "name": "Edremitspor", "real_license": true, "squad": [{"name": "Emre Yılmazer", "pos": "GK", "rating": 60}, {"name": "Ali Ateş", "pos": "CB", "rating": 61}, {"name": "Tolga Değirmenci", "pos": "CM", "rating": 61}, {"name": "Metehan Yüksel", "pos": "ST", "rating": 62}]},
-        {"team_id": "SVG", "name": "Sivas Gücü Belediyespor", "real_license": true, "squad": [{"name": "Ahmet Doğan", "pos": "GK", "rating": 60}, {"name": "Fatih Özkan", "pos": "CB", "rating": 61}, {"name": "Muhammet Kaya", "pos": "CM", "rating": 61}, {"name": "Yunus Emre Ceylan", "pos": "ST", "rating": 62}]},
+        {"team_id": "SVG", "name": "Sivas Gücü Belediyespor", "real_license": true, "squad": [{"name": "Ahmet Doğan", "pos": "GK", "rating": 60}, {"name": "Fatih Özkan", "pos": "CB", "rating": 61}, {"name": "Muhammet Kaya", "pos": "CM", "rating": 61}, {"name": "Yunus Emre Ceylan", "pos": "ST", "rating": 
         {"team_id": "KRC_AMB", "name": "Karacaahmet Belediyespor", "real_license": true, "squad": [{"name": "Samet Kaan", "pos": "GK", "rating": 60}, {"name": "Enes Şahin", "pos": "CB", "rating": 60}, {"name": "Kaan Yılmaz", "pos": "CM", "rating": 61}, {"name": "Burak Can", "pos": "ST", "rating": 61}]},
         {"team_id": "TRE", "name": "Tire FK", "real_license": true, "squad": [{"name": "Fatih Gülmez", "pos": "GK", "rating": 62}, {"name": "Semih Can", "pos": "CB", "rating": 62}, {"name": "Murat Uluç", "pos": "CM", "rating": 63}, {"name": "Mert Öztürk", "pos": "ST", "rating": 63}]},
         {"team_id": "KES_CLK", "name": "Kestel Çilekspor", "real_license": true, "squad": [{"name": "Mertcan Yılmaz", "pos": "GK", "rating": 61}, {"name": "Uğur Bulut", "pos": "CB", "rating": 61}, {"name": "Oğuzhan Türk", "pos": "CM", "rating": 62}, {"name": "Emre Aktaş", "pos": "ST", "rating": 63}]}
