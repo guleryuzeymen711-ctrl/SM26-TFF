@@ -1,15 +1,94 @@
+
 {
-  "packName": "TFF Pro Plus Pack",
-  "version": "1.0",
+  "pack_name": "SM26 - TFF Tum Ligler Veritabanı (2026 Guncel Kadrolar)",
+  "version": "2026.1.0",
+  "author": "SM26 Community",
   "leagues": [
     {
-      "id": 1,
-      "name": "Trendyol Super Lig",
-      "clubs": [
-        {"id": 1001, "name": "Galatasaray SK"},
-        {"id": 1002, "name": "Fenerbahce SK"},
-        {"id": 1003, "name": "Besiktas JK"},
-        {"id": 1004, "name": "Trabzonspor"}
+      "league_id": "TR_SL",
+      "league_name": "Trendyol Süper Lig",
+      "country": "Turkey",
+      "tier": 1,
+      "teams": [
+        {"team_id": "GS", "name": "Galatasaray SK", "squad": [{"name": "Fernando Muslera", "pos": "GK"}, {"name": "Davinson Sánchez", "pos": "CB"}, {"name": "Noa Lang", "pos": "LW"}, {"name": "Victor Osimhen", "pos": "ST"}]},
+        {"team_id": "FB", "name": "Fenerbahçe SK", "squad": [{"name": "Mert Günok", "pos": "GK"}, {"name": "Nathan Aké", "pos": "CB"}, {"name": "N'Golo Kanté", "pos": "CDM"}, {"name": "Youssef En-Nesyri", "pos": "ST"}]},
+        {"team_id": "BJK", "name": "Beşiktaş JK", "squad": [{"name": "Doğan Alemdar", "pos": "GK"}, {"name": "Gabriel Paulista", "pos": "CB"}, {"name": "Leandro Trossard", "pos": "LM"}, {"name": "Ciro Immobile", "pos": "ST"}]},
+        {"team_id": "TS", "name": "Trabzonspor", "squad": [{"name": "Uğurcan Çakır", "pos": "GK"}, {"name": "Cenk Özkacar", "pos": "CB"}, {"name": "Oleksandr Zubkov", "pos": "RW"}, {"name": "Umut Nayir", "pos": "ST"}]},
+        {"team_id": "IBFK", "name": "RAMS Başakşehir", "squad": [{"name": "Volkan Babacan", "pos": "GK"}, {"name": "Emin Bayram", "pos": "CB"}, {"name": "Edin Višća", "pos": "RW"}, {"name": "Eldor Shomurodov", "pos": "ST"}]},
+        {"team_id": "ADS", "name": "Adana Demirspor", "squad": [{"name": "Vedat Karakuş", "pos": "GK"}, {"name": "Semih Güler", "pos": "CB"}, {"name": "Maestro", "pos": "CM"}, {"name": "Abat Aymbetov", "pos": "ST"}]},
+        {"team_id": "KAS", "name": "Kasımpaşa SK", "squad": [{"name": "Andreas Gianniotis", "pos": "GK"}, {"name": "Kenneth Omeruo", "pos": "CB"}, {"name": "Thiemoko Diarra", "pos": "CAM"}, {"name": "Nuno Da Costa", "pos": "ST"}]},
+        {"team_id": "SIV", "name": "Sivasspor", "squad": [{"name": "Đorđe Nikolić", "pos": "GK"}, {"name": "Uroš Radaković", "pos": "CB"}, {"name": "Charis Charisis", "pos": "CM"}, {"name": "Rey Manaj", "pos": "ST"}]},
+        {"team_id": "ANT", "name": "Antalyaspor", "squad": [{"name": "Kenan Pirić", "pos": "GK"}, {"name": "Veysel Sarı", "pos": "CB"}, {"name": "Erdal Rakip", "pos": "CM"}, {"name": "Adolfo Gaich", "pos": "ST"}]},
+        {"team_id": "ALA", "name": "Alanyaspor", "squad": [{"name": "Yusuf Karagöz", "pos": "GK"}, {"name": "Fidan Aliti", "pos": "CB"}, {"name": "Efecan Karaca", "pos": "RW"}, {"name": "Omar Ben Ali", "pos": "ST"}]},
+        {"team_id": "RZE", "name": "Rizespor", "squad": [{"name": "Gökhan Akkan", "pos": "GK"}, {"name": "Modibo Sagnan", "pos": "CB"}, {"name": "Ahmet Kutucu", "pos": "CAM"}, {"name": "Ali Sowe", "pos": "ST"}]},
+        {"team_id": "GZT", "name": "Gaziantep FK", "squad": [{"name": "Sokratis Dioudis", "pos": "GK"}, {"name": "Arda Kızıldağ", "pos": "CB"}, {"name": "Alexandru Maxim", "pos": "CAM"}, {"name": "David Okereke", "pos": "ST"}]},
+        {"team_id": "KNY", "name": "Konyaspor", "squad": [{"name": "Slowik Jakub", "pos": "GK"}, {"name": "Adil Demirbağ", "pos": "CB"}, {"name": "Guilherme Sityá", "pos": "LB"}, {"name": "Melih Bostan", "pos": "ST"}]},
+        {"team_id": "SAMS", "name": "Samsunspor", "squad": [{"name": "Bilal Bayazıt", "pos": "GK"}, {"name": "Lubin Satka", "pos": "CB"}, {"name": "Olivier Ntcham", "pos": "CM"}, {"name": "Marius Mouandilmadji", "pos": "ST"}]},
+        {"team_id": "KYS", "name": "Kayserispor", "squad": [{"name": "Onurcan Piri", "pos": "GK"}, {"name": "Joseph Attamah", "pos": "CB"}, {"name": "Mehdi Bourabia", "pos": "CM"}, {"name": "Stephane Bahoken", "pos": "ST"}]},
+        {"team_id": "HAT", "name": "Hatayspor", "squad": [{"name": "Demir Sarıcalı", "pos": "GK"}, {"name": "Guy-Marcelin Kilama", "pos": "CB"}, {"name": "Görkem Sağlam", "pos": "CM"}, {"name": "Vincent Aboubakar", "pos": "ST"}]},
+        {"team_id": "EYUP", "name": "Eyüpspor", "squad": [{"name": "Berke Özer", "pos": "GK"}, {"name": "Caner Erkin", "pos": "LB"}, {"name": "Konrad Michalak", "pos": "LW"}, {"name": "Mame Thiam", "pos": "ST"}]},
+        {"team_id": "GOZ", "name": "Göztepe SK", "squad": [{"name": "Mateusz Lis", "pos": "GK"}, {"name": "Heliton", "pos": "CB"}, {"name": "Alex Matos", "pos": "CM"}, {"name": "Romulo", "pos": "ST"}]},
+        {"team_id": "BOD", "name": "Bodrum FK", "squad": [{"name": "Diogo Sousa", "pos": "GK"}, {"name": "Ali Aytemur", "pos": "CB"}, {"name": "Fredy", "pos": "CM"}, {"name": "George Pușcaș", "pos": "ST"}]}
+      ]
+    },
+    {
+      "league_id": "TR_1L",
+      "league_name": "Trendyol 1. Lig",
+      "country": "Turkey",
+      "tier": 2,
+      "teams": [
+        {"team_id": "ANK", "name": "MKE Ankaragücü", "squad": [{"name": "Ertaç Özbir", "pos": "GK"}, {"name": "Mert Çetin", "pos": "CB"}, {"name": "Tolga Ciğerci", "pos": "CM"}, {"name": "Riad Bajić", "pos": "ST"}]},
+        {"team_id": "KOC", "name": "Kocaelispor", "squad": [{"name": "Gökhan Değirmenci", "pos": "GK"}, {"name": "Aaron Appindangoyé", "pos": "CB"}, {"name": "Ryan Mendes", "pos": "LW"}, {"name": "Marcao", "pos": "ST"}]},
+        {"team_id": "AMD", "name": "Amed SK", "squad": [{"name": "Veysel Sapan", "pos": "GK"}, {"name": "Amadou Cissé", "pos": "CB"}, {"name": "Rayan Raveloson", "pos": "CM"}, {"name": "Britt Assombalonga", "pos": "ST"}]},
+        {"team_id": "ISL", "name": "İstanbulspor", "squad": [{"name": "Mücahit Serbest", "pos": "GK"}, {"name": "Okan Erdoğan", "pos": "CB"}, {"name": "Florian Loshaj", "pos": "CM"}, {"name": "Emir Kaan Gültekin", "pos": "ST"}]},
+        {"team_id": "PEN", "name": "Pendikspor", "squad": [{"name": "Erdem Canpolat", "pos": "GK"}, {"name": "Welinton", "pos": "CB"}, {"name": "Nuno Sequeira", "pos": "LB"}, {"name": "Emeka Eze", "pos": "ST"}]},
+        {"team_id": "KAR", "name": "Fatih Karagümrük", "squad": [{"name": "Emre Bilgin", "pos": "GK"}, {"name": "Atakan Çankaya", "pos": "CB"}, {"name": "Emre Mor", "pos": "RW"}, {"name": "Wesley", "pos": "ST"}]},
+        {"team_id": "GEN", "name": "Gençlerbirliği", "squad": [{"name": "Sinan Bolat", "pos": "GK"}, {"name": "Alperen Babacan", "pos": "CB"}, {"name": "Metehan Mimaroğlu", "pos": "LW"}, {"name": "Mustafa Yatabaré", "pos": "ST"}]},
+        {"team_id": "SAK", "name": "Sakaryaspor", "squad": [{"name": "Jakub Szumski", "pos": "GK"}, {"name": "Erdi Dikmen", "pos": "CB"}, {"name": "Murat Cem Akpınar", "pos": "CM"}, {"name": "Fernando Andrade", "pos": "ST"}]},
+        {"team_id": "COR", "name": "Çorum FK", "squad": [{"name": "Arif Şimşir", "pos": "GK"}, {"name": "Zargo Touré", "pos": "CB"}, {"name": "Hasan Abdulkareem", "pos": "RW"}, {"name": "Thomas Verheydt", "pos": "ST"}]},
+        {"team_id": "BOL", "name": "Boluspor", "squad": [{"name": "Çağlar Şahin Akbaba", "pos": "GK"}, {"name": "Veaceslav Posmac", "pos": "CB"}, {"name": "Jefferson", "pos": "CM"}, {"name": "Adel Bettaieb", "pos": "ST"}]},
+        {"team_id": "BNS", "name": "Bandırmaspor", "squad": [{"name": "Zafer Görgen", "pos": "GK"}, {"name": "Atınç Nukan", "pos": "CB"}, {"name": "Rémi Mulumba", "pos": "CM"}, {"name": "Paulinho", "pos": "ST"}]},
+        {"team_id": "ERR", "name": "Erzurumspor FK", "squad": [{"name": "Göktuğ Bakırbaş", "pos": "GK"}, {"name": "Nihad Mujakić", "pos": "CB"}, {"name": "Sefa Akgün", "pos": "CM"}, {"name": "Eren Tozlu", "pos": "ST"}]},
+        {"team_id": "MAN", "name": "Manisa FK", "squad": [{"name": "Alperen Uysal", "pos": "GK"}, {"name": "Bartu Göçmen", "pos": "CB"}, {"name": "Moryké Fofana", "pos": "LW"}, {"name": "Kwakou", "pos": "ST"}]},
+        {"team_id": "KEC", "name": "Keçiörengücü", "squad": [{"name": "Metin Uçar", "pos": "GK"}, {"name": "Arda Şengül", "pos": "CB"}, {"name": "Erkam Develi", "pos": "CM"}, {"name": "Moustapha Camara", "pos": "ST"}]},
+        {"team_id": "ADR", "name": "Adanaspor", "squad": [{"name": "Jankat Yılmaz", "pos": "GK"}, {"name": "Fatih Kurucuk", "pos": "CB"}, {"name": "Check Oumar Diakité", "pos": "CM"}, {"name": "Metehan Altunbaş", "pos": "ST"}]},
+        {"team_id": "UMR", "name": "Ümraniyespor", "squad": [{"name": "Cihan Topaloğlu", "pos": "GK"}, {"name": "Mustafa Eser", "pos": "CB"}, {"name": "Serkan Göksu", "pos": "CM"}, {"name": "Cebio Soukou", "pos": "RW"}]},
+        {"team_id": "IGR", "name": "Iğdır FK", "squad": [{"name": "Furkan Köse", "pos": "GK"}, {"name": "Kévin Rodrigues", "pos": "LB"}, {"name": "Adrien Regattin", "pos": "CAM"}, {"name": "Kosta Aleksić", "pos": "ST"}]},
+        {"team_id": "URFA", "name": "Şanlıurfaspor", "squad": [{"name": "Erzhan Tokotaev", "pos": "GK"}, {"name": "Fatih Eren", "pos": "CB"}, {"name": "Hasan Hüseyin Acar", "pos": "CM"}, {"name": "Olarenwaju Kayode", "pos": "ST"}]},
+        {"team_id": "ESN", "name": "Esenler Erokspor", "squad": [{"name": "Ekrem Kılıçarslan", "pos": "GK"}, {"name": "Metehan Mert", "pos": "CB"}, {"name": "Junior Fernandes", "pos": "LW"}, {"name": "Hamza Čataković", "pos": "ST"}]},
+        {"team_id": "YEN", "name": "Yeni Malatyaspor", "squad": [{"name": "Abdulsamed Damlu", "pos": "GK"}, {"name": "Yiğit Uçar", "pos": "CB"}, {"name": "Berat Yaman", "pos": "CM"}, {"name": "Enes Savtekin", "pos": "ST"}]}
+      ]
+    },
+    {
+      "league_id": "TR_2L",
+      "league_name": "TFF 2. Lig",
+      "country": "Turkey",
+      "tier": 3,
+      "teams": [
+        {"team_id": "BUR", "name": "Bursaspor", "squad": [{"name": "Anıl Atağ", "pos": "GK"}, {"name": "Mehmet Yiğit", "pos": "CB"}, {"name": "Ahmet İlhan Özek", "pos": "RW"}, {"name": "Muhammet Demir", "pos": "ST"}]},
+        {"team_id": "ALT", "name": "Altay SK", "squad": [{"name": "Ozan Evrim Özenç", "pos": "GK"}, {"name": "Sefa Özdemir", "pos": "CB"}, {"name": "Ceyhun Gülselam", "pos": "CDM"}, {"name": "Murat Uluç", "pos": "ST"}]},
+        {"team_id": "VAN", "name": "Vanspor FK", "squad": [{"name": "Kurtuluş Yurt", "pos": "GK"}, {"name": "Burak Öksüz", "pos": "CB"}, {"name": "Sergen Yatağan", "pos": "CM"}, {"name": "Batuhan Kör", "pos": "ST"}]},
+        {"team_id": "MEN", "name": "Menemen FK", "squad": [{"name": "Kıvanç Küçükkarış", "pos": "GK"}, {"name": "Mazlum Demir", "pos": "CB"}, {"name": "Hakkı Türker", "pos": "CM"}, {"name": "Mert Chan", "pos": "ST"}]},
+        {"team_id": "SRY", "name": "Sarıyer", "squad": [{"name": "Aykut Özer", "pos": "GK"}, {"name": "Metehan Baltacı", "pos": "CB"}, {"name": "Hakan Kütük", "pos": "CM"}, {"name": "Sertaç Çam", "pos": "ST"}]},
+        {"team_id": "1461", "name": "1461 Trabzon", "squad": [{"name": "Ömer Kahveci", "pos": "GK"}, {"name": "Buğrahan Karslı", "pos": "CB"}, {"name": "Tunahan Ergül", "pos": "CM"}, {"name": "Enes Karakuş", "pos": "ST"}]},
+        {"team_id": "KST", "name": "Kastamonuspor", "squad": [{"name": "Sertan Yiğenoğlu", "pos": "GK"}, {"name": "Faruk Öztürk", "pos": "CB"}, {"name": "İsmail Güven", "pos": "CM"}, {"name": "Oğuz Yılmaz", "pos": "ST"}]},
+        {"team_id": "ISK", "name": "İskenderunspor", "squad": [{"name": "Onur Can Özcan", "pos": "GK"}, {"name": "Kaan Yüksel", "pos": "CB"}, {"name": "Ali Keten", "pos": "CM"}, {"name": "Ömer Kuşan", "pos": "ST"}]},
+        {"team_id": "BUCA", "name": "Bucaspor 1928", "squad": [{"name": "Korcan Çelikay", "pos": "GK"}, {"name": "Lokman Gör", "pos": "CB"}, {"name": "Mehmet Sak", "pos": "CM"}, {"name": "Yasin Öztekin", "pos": "ST"}]},
+        {"team_id": "ELZ", "name": "Elazığspor", "squad": [{"name": "Muhammet Birkan Tetik", "pos": "GK"}, {"name": "Ercan Coşkun", "pos": "CB"}, {"name": "Beykan Şimşek", "pos": "CAM"}, {"name": "Yusuf Mert Tunç", "pos": "ST"}]}
+      ]
+    },
+    {
+      "league_id": "TR_3L",
+      "league_name": "TFF 3. Lig",
+      "country": "Turkey",
+      "tier": 4,
+      "teams": [
+        {"team_id": "KSK", "name": "Karşıyaka SK", "squad": [{"name": "Hasan Sürmeli", "pos": "GK"}, {"name": "Cenk Özkaçar", "pos": "CB"}, {"name": "Enes Nalbantoğlu", "pos": "LW"}, {"name": "Yasin Ozan", "pos": "ST"}]},
+        {"team_id": "ORD", "name": "Orduspor 1967", "squad": [{"name": "Muhammet Can Tuncer", "pos": "GK"}, {"name": "Erdoğan İspir", "pos": "CB"}, {"name": "Sarper Çağlar", "pos": "RW"}, {"name": "Taha Balcı", "pos": "ST"}]},
+        {"team_id": "BAL", "name": "Balıkesirspor", "squad": [{"name": "Hüseyin Altıntaş", "pos": "GK"}, {"name": "Birol Parlak", "pos": "CB"}, {"name": "Sedat Dursun", "pos": "CM"}, {"name": "Artun Akçakın", "pos": "ST"}]},
+        {"team_id": "AYD", "name": "Efeler 09 SFK", "squad": [{"name": "Kemal Mert Ceylan", "pos": "GK"}, {"name": "Süleyman Çelik", "pos": "CB"}, {"name": "Uğur Çetinkaya", "pos": "CM"}, {"name": "İshak Kurt", "pos": "ST"}]},
+        {"team_id": "KLR", "name": "Kırklarelispor", "squad": [{"name": "Mizhat Burak Sarı", "pos": "GK"}, {"name": "Bedirhan Öztürk", "pos": "CB"}, {"name": "Hüseyin Eray Karatöl", "pos": "CM"}, {"name": "Erdoğan Kaya", "pos": "ST"}]},
+        {"team_id": "DZN", "name": "Düzcespor", "squad": [{"name": "Gökhan Siverek", "pos": "GK"}, {"name": "Koray Baykara", "pos": "CB"}, {"name": "Kaan Yılmaz", "pos": "CM"}, {"name": "İbrahim Alan", "pos": "ST"}]}
       ]
     }
   ]
